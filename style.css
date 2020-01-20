@@ -1,0 +1,43 @@
+html{
+    position: relative;
+    overflow: scroll;
+}
+body{
+    
+    margin-top: 20px;
+}
+hr{
+    width: 250px;
+    background-color: black;
+}
+.col-md-12 h2{
+    margin-top: 30px;
+}
+.container-about{
+    margin: 20px 24px;
+    font-size: 14px;
+}
+.big-banner{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("img/back.jpg");
+    background-size: 100%;
+    width: auto;
+    height: 580px;
+}
+.box-home{
+    margin-top: 160px;
+}
+form{
+    padding: 20px;
+}
+footer{
+    position: relative;
+    margin-top: 10px;
+    bottom: 0;
+    width: 100%;
+    background: #333;
+    padding: 15px;
+}
+footer p{
+    color: white;
+    font-size: 13px;
+}
